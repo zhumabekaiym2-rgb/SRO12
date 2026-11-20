@@ -9,13 +9,10 @@ public class MainApp {
 
         Locale.setDefault(Locale.US);
 
-        System.out.println("======================================");
-        System.out.println("       СРО № 12");
-        System.out.println(" Основы вычислительной физики");
-        System.out.println(" Вариант 4: ВАХ диода");
-        System.out.println("======================================");
+        System.out.println("СРО № 12");
+        System.out.println("Основы вычислительной физики");
+        System.out.println("Вариант 4: ВАХ диода");
 
-        System.out.println("Java-проект успешно запущен.");
-        System.out.println("Далее будут добавлены численные методы.");
+        System.out.println("Проект успешно запущен.");
     }
 }
